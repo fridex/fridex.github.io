@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I live in Brno, Czech republic. I'm 26 year old guy who graduated from [FIT
+I live in Brno, Czech republic. I'm 27 year old guy who graduated from [FIT
 BUT][fit-but] (master's degree programme information security technology).  I
 worked at AVG (now Avast!), currently I work at Red Hat in a team
 [AICoE][aicoe] which stands for Artificial Intelligence Center of Excellence.
@@ -42,7 +42,7 @@ My main interest in IT are algorithmic puzzles, C/C++ (I like assemblies, but I
 don't like to write huge asm sources), Python and lately machine learning
 algorithms. I used to maintain Go projects in Fedora; during the maintenance, I
 helped with [gofed](https://github.com/gofed) and developed a distributed tool
-[gofed-ng][gofed-ng]. After that I moved to another project at Red Hat where I
+[gofed-ng][gofed-ng]. After that, I moved to another project at Red Hat where I
 developed [Selinon][selinon] that was used for big data processing in
 [openshift.io](https://openshift.io) introduced at [Red Hat summit
 2017](https://www.youtube.com/watch?v=PtTnnw3DakY&t=30m33s).
@@ -51,37 +51,43 @@ Now I work in a team titled [AICoE][aicoe] that is a part of Red Hat's Office
 of the CTO. In this team, we are applying machine learning in various areas.
 Most of the time I work on a project called [Thoth][thoth]. Project Thoth is a
 recommendation system which is targeting machine learning application stacks
-and recommends you to use libraries based on various indexes such as
-performance or reliability. I tend to engage also in other projects within Red
-Hat such as optimized TensorFlow builds which you can find on our [experimental
-Python package index][index-aicoe].
+and recommends you to use libraries based on various attributes such as
+performance or reliability. You can find more information about project [Thoth
+on GitHub][thoth-station] and [Thoth page][thoth-page]. I tend to engage also
+in other projects within Red Hat such as optimized TensorFlow builds which you
+can find on our [experimental Python package index][index-aicoe].
 
-Besides IT, I like nature (I love sunset), good books, football (I used to be a
-goalkeeper), guitar music (occasionally I play guitar) and a good beer. I hate
-shoddy or disrespectful people. I also hate traffic jams as they drive me crazy.
+Besides IT, I like nature (I love sunset), good books ([Man's Search for
+Meaning is my favourite][frankl]), football (I used to be a goalkeeper), guitar
+music (occasionally I play guitar) and a good beer. I hate shoddy or
+disrespectful people. I also hate traffic jams as they drive me crazy.
 
 My pseudonym is often fridex if you haven't noticed yet (yes, poisonous
-ethylene glycol). I am occasional public blogger, so don't expect me to
-write posts on daily basis (but I [tweet][twitter] more often). If you are a
-Red Hatter, you can find some blogs at Red Hat's internal blog system.
+ethylene glycol). I am occasional public blogger, so don't expect me to write
+posts on daily basis. I would like to try spreading my thoughts via
+[Medium][medium], maybe I [tweet][twitter] more often. If you are a Red Hatter,
+you can find some blogs at Red Hat's internal blog system.
 
 If you would like to reach out to me, just let me know 😉.
 
-
-[fit-but]: http://www.fit.vutbr.cz/
-[retdec]: https://retdec.com/
-[ktls]: https://github.com/ktls/af_ktls
-[IEEE]: http://ieeexplore.ieee.org/document/6644218/
-[ComSIS]: http://elib.mi.sanu.ac.rs/pages/browse_issue.php?db=csis&rbr=32
-[linked.in]: https://cz.linkedin.com/in/fridolín-pokorný-b382b240
-[nikos]: http://nmav.gnutls.org/
-[jk-twitter]: https://twitter.com/JakubKroustek
-[twitter]: https://twitter.com/fridex
+[aicoe]: https://github.com/aicoe
 [bc-theses]: https://www.fit.vutbr.cz/study/DP/BP.php.en?id=14778&y=2012
-[ing-theses]: https://www.fit.vutbr.cz/study/DP/DP.php.en?id=18032&y=2015
+[ComSIS]: http://elib.mi.sanu.ac.rs/pages/browse_issue.php?db=csis&rbr=32
+[fit-but]: http://www.fit.vutbr.cz/
+[frankl]: https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
 [gofed-ng]: https://github.com/gofed/gofed-ng
+[IEEE]: http://ieeexplore.ieee.org/document/6644218/
+[index-aicoe]: https://index-aicoe.a3c1.starter-us-west-1.openshiftapps.com/
+[ing-theses]: https://www.fit.vutbr.cz/study/DP/DP.php.en?id=18032&y=2015
+[jk-twitter]: https://twitter.com/JakubKroustek
+[ktls]: https://github.com/ktls/af_ktls
+[linked.in]: https://cz.linkedin.com/in/fridolín-pokorný-b382b240
+[medium]: https://medium.com/@fridex
+[nikos]: http://nmav.gnutls.org/
+[retdec]: https://retdec.com/
+[retdec-src]: https://github.com/avast-tl/retdec
 [selinon]: https://github.com/selinon/
 [thoth]: https://github.com/thoth-station/
-[aicoe]: https://github.com/aicoe
-[retdec-src]: https://github.com/avast-tl/retdec
-[index-aicoe]: https://index-aicoe.a3c1.starter-us-west-1.openshiftapps.com/
+[thoth-page]: https://thoth-station.ninja/
+[thoth-station]: https://github.com/thoth-station
+[twitter]: https://twitter.com/fridex
