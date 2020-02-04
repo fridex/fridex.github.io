@@ -6,6 +6,50 @@ permalink: /talks/
 
 Here you can find a list of talks I gave on various conferences:
 
+### FOSDEM2020: Thoth - a recommendation engine for Python applications
+
+Date: Feb 1th 2020
+
+Location: Brussels, Belgium
+
+ * [info](https://fosdem.org/2020/schedule/event/python2020_thot/)
+ * [slides](https://fosdem.org/2020/schedule/event/python2020_thot/attachments/audio/3873/export/events/attachments/python2020_thot/audio/3873/slides.pdf), [link2]()
+ * [recording](http://bofh.nikhef.nl/events/FOSDEM/2020/UB2.252A/python2020_thot.webm)
+
+
+### PyCon US: Thoth - how to recommend the best possible libraries for your application
+
+Date: May 4th 2019
+
+Location: Cleveland, Ohio
+
+ * [info](https://us.pycon.org/2019/schedule/presentation/185/)
+ * [slides](https://speakerdeck.com/pycon2019/fridolin-pokorny-thoth-how-to-recommend-the-best-possible-libraries-for-your-application), [link2](https://github.com/thoth-station/talks/blob/master/2019-05-04-pycon-us/Thoth%20-%20how%20to%20recommend%20the%20best%20possible%20libraries%20for%20your%20application.pdf)
+ * [recording](https://www.youtube.com/watch?v=CRnKC6-cFY4)
+
+
+### DevConf.US: Thoth - How to find the best application stack
+
+Date: January 25th 2019; talk with Christoph Goern.
+
+Location: Brno, Czech republic
+
+ * [info](https://devconfcz2019.sched.com/event/KIc3/thoth-how-to-recommend-the-best-possible-packages-for-your-application)
+ * [slides](https://github.com/thoth-station/talks/blob/master/2019-01-25-devconf-cz/Thoth%20-%20DevConf%20CZ%202019.pdf)
+ * recording is not available
+
+
+### DAZ & WIKT: Selinon – Dynamic Distributed Task Flows
+
+Date: Oct 11th 2018
+
+Location: Brno, Czech republic
+
+ * [info](http://daz2018.fit.vutbr.cz/)
+ * slides are not available
+ * recording is not available
+
+
 ### DevConf.US: Thoth - How to find the best application stack
 
 Date: August 18th 2018
