@@ -70,6 +70,8 @@ you can find some blogs at Red Hat's internal blog system.
 
 If you would like to reach out to me, just let me know 😉.
 
+<a class="twitter-timeline" href="https://twitter.com/fridex?ref_src=twsrc%5Etfw">Tweets by fridex</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/35508472/latest-rides/93c37270a68a2354b343c8b911851634709b829f'></iframe>
 
 [aicoe]: https://github.com/aicoe
