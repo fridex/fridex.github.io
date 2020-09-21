@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I live in Brno, Czech republic. I'm 27 year old guy who graduated from [FIT
+I live in Brno, Czech republic. I'm 28 year old guy who graduated from [FIT
 BUT][fit-but] (master's degree programme information security technology).  I
 worked at AVG (now Avast!), currently I work at Red Hat in a team
 [AICoE][aicoe] which stands for Artificial Intelligence Center of Excellence.
@@ -69,6 +69,8 @@ posts on daily basis. I would like to try spreading my thoughts via
 you can find some blogs at Red Hat's internal blog system.
 
 If you would like to reach out to me, just let me know 😉.
+
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/35508472/latest-rides/93c37270a68a2354b343c8b911851634709b829f'></iframe>
 
 [aicoe]: https://github.com/aicoe
 [bc-theses]: https://www.fit.vutbr.cz/study/DP/BP.php.en?id=14778&y=2012
