@@ -6,6 +6,16 @@ permalink: /talks/
 
 Here you can find a list of talks I gave on various conferences:
 
+### NeurIPS: Thoth: Reinforcement learning based dependency resolution
+
+Date: Dec 6th 2020
+
+Location: US, virtual event
+
+ * [slides](https://github.com/thoth-station/talks/blob/master/2020-12-06-neurips/neurips-thoth.pdf)
+ * [recording](https://neurips.cc/Expo/Conferences/2020/talkpanel/21302), the talk starts at 27:17
+
+
 ### DevConf.US: Improvements in OpenShift Python s2i (Source-To-Image)
 
 Date: Sep 25th 2020
