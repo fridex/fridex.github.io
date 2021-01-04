@@ -6,6 +6,16 @@ permalink: /talks/
 
 Here you can find a list of talks I gave on various conferences:
 
+### DevNation: the one installation tool that covers Pipenv, Poetry and pip-tools
+
+Date: Sep 15th 2020
+
+Location: virtual event
+
+ * [slides](https://github.com/thoth-station/talks/blob/master/2020-09-15-devnation/micropipenv.pdf)
+ * [recording](https://www.youtube.com/watch?v=S-EYZAqG5nI&list=PLf3vm0UK6HKr0qxPAEbTI4r-G8o37-_Ge&index=3&t=0s)
+
+
 ### FOSDEM2020: Thoth - a recommendation engine for Python applications
 
 Date: Feb 1th 2020
@@ -13,7 +23,7 @@ Date: Feb 1th 2020
 Location: Brussels, Belgium
 
  * [info](https://fosdem.org/2020/schedule/event/python2020_thot/)
- * [slides](https://fosdem.org/2020/schedule/event/python2020_thot/attachments/audio/3873/export/events/attachments/python2020_thot/audio/3873/slides.pdf), [link2]()
+ * [slides](https://fosdem.org/2020/schedule/event/python2020_thot/attachments/audio/3873/export/events/attachments/python2020_thot/audio/3873/slides.pdf)
  * [recording](http://bofh.nikhef.nl/events/FOSDEM/2020/UB2.252A/python2020_thot.webm)
 
 
