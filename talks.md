@@ -6,6 +6,28 @@ permalink: /talks/
 
 Here you can find a list of talks I gave on various conferences:
 
+### DevConf.US: Improvements in OpenShift Python s2i (Source-To-Image)
+
+Date: Sep 25th 2020
+
+Location: US, virtual event
+
+ * [info](https://devconfus2020.sched.com/event/dkXi/improvements-in-openshift-python-s2i)
+ * [slides](https://github.com/thoth-station/talks/blob/master/2020-09-25-devconf-us/thoth_python_s2i.pdf)
+ * [recording](https://www.youtube.com/watch?v=QT4ConYPSOA)
+
+
+### DevConf.US: Reinforcement learning based dependency resolution
+
+Date: Sep 25th 2020
+
+Location: US, virtual event
+
+ * [info](https://devconfus2020.sched.com/event/dkYC/reinforcement-learning-based-dependency-resolution)
+ * [slides](https://github.com/thoth-station/talks/blob/master/2020-09-25-devconf-us/reinforcement_learning_based_dependency_resolution.pdf)
+ * [recording](https://www.youtube.com/watch?v=AKs5W_tpiQ8)
+
+
 ### DevNation: the one installation tool that covers Pipenv, Poetry and pip-tools
 
 Date: Sep 15th 2020
