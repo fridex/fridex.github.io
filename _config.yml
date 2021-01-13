@@ -71,6 +71,13 @@ content:
   - title: Talks # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      **Online MLMU \#11: Thoth: Reinforcement learning-based dependency resolution**
+
+      * *Date:* Jan 13th, 2021
+      * *Location:* CZ, virtual event
+        * [slides](https://github.com/thoth-station/talks/blob/master/2021-01-13-mlmu/mlmu-thoth.pdf)
+        * [info](https://www.meetup.com/Prague-Machine-Learning/events/275499615/)
+
       **NeurIPS: Thoth: Reinforcement learning based dependency resolution**
 
       * *Date:* Dec 6th 2020
