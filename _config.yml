@@ -12,7 +12,7 @@ email: fridex.devel@gmail.com
 # email_title: Email (Email title override)phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 website: https://dev.to/@fridex
-# website_title: Web (Website title override)
+website_title: Blog
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -33,10 +33,16 @@ linkedin_username: fridex
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+  - title: dev.to
+    icon: fab fa-dev
+    url: https://dev.to/@fridex
+
+  - title: strava
+    icon: fab fa-strava
+    url: https://dev.to/@fridex
+    url: https://www.strava.com/athletes/35508472
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -57,7 +63,7 @@ about_content: | # this will include new lines to allow paragraphs
   Passionate Pythonista. Working on scalable platforms and machine learning applications in Red Hat’s office of the CTO.
   
   🌳 Nature lover.
-  📚 C. G. Junk admirer.
+  📚 C. G. Jung admirer.
   🚴 Road cycling.
 
 #
