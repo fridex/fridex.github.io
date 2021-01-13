@@ -95,7 +95,6 @@ content:
         * [recording](https://www.youtube.com/watch?v=AKs5W_tpiQ8)
 
       **DevNation: the one installation tool that covers Pipenv, Poetry and pip-tools**
-
       * *Date:* Sep 15th 2020
       * *Location:* virtual event
         * [slides](https://github.com/thoth-station/talks/blob/master/2020-09-15-devnation/micropipenv.pdf)
@@ -113,9 +112,9 @@ content:
 
       * *Date:* May 4th 2019
       * *Location:* Cleveland, Ohio
-       * [info](https://us.pycon.org/2019/schedule/presentation/185/)
-       * [slides](https://speakerdeck.com/pycon2019/fridolin-pokorny-thoth-how-to-recommend-the-best-possible-libraries-for-your-application), [link2](https://github.com/thoth-station/talks/blob/master/2019-05-04-pycon-us/Thoth%20-%20how%20to%20recommend%20the%20best%20possible%20libraries%20for%20your%20application.pdf)
-       * [recording](https://www.youtube.com/watch?v=CRnKC6-cFY4)
+        * [info](https://us.pycon.org/2019/schedule/presentation/185/)
+        * [slides](https://speakerdeck.com/pycon2019/fridolin-pokorny-thoth-how-to-recommend-the-best-possible-libraries-for-your-application), [link2](https://github.com/thoth-station/talks/blob/master/2019-05-04-pycon-us/Thoth%20-%20how%20to%20recommend%20the%20best%20possible%20libraries%20for%20your%20application.pdf)
+        * [recording](https://www.youtube.com/watch?v=CRnKC6-cFY4)
 
       **DevConf.US: Thoth - How to find the best application stack**
 
@@ -132,7 +131,6 @@ content:
         * [info](http://daz2018.fit.vutbr.cz/)
         * slides are not available
         * recording is not available
-
 
       **DevConf.US: Thoth - How to find the best application stack**
 
