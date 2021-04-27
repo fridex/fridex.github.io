@@ -78,6 +78,13 @@ content:
   - title: Talks # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      **Online Red Hat Czech Open House: Thoth: Helping Python developers to create healthy applications
+
+      * *Date:* Apr 14th, 2021
+      * *Location:* CZ, virtual event
+        * [slides](https://github.com/thoth-station/talks/blob/master/2021-04-14-open-house/thoth_rh_open_house.pdf)
+        * [recording](https://www.youtube.com/watch?v=8MjZP6B79S4)
+
       **Online MLMU \#11: Thoth: Reinforcement learning-based dependency resolution**
 
       * *Date:* Jan 13th, 2021
