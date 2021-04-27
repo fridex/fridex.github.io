@@ -78,7 +78,7 @@ content:
   - title: Talks # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      **Online Red Hat Czech Open House: Thoth: Helping Python developers to create healthy applications
+      **Online Red Hat Czech Open House: Thoth: Helping Python developers to create healthy applications**
 
       * *Date:* Apr 14th, 2021
       * *Location:* CZ, virtual event
