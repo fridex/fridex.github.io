@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -38,9 +38,12 @@ additional_links:
     icon: fab fa-dev
     url: https://dev.to/@fridex
 
+  # - title: CV
+  #   icon: fab fa-info
+  #   url: https://raw.githubusercontent.com/fridex/fridex.github.io/master/fpokorny_cv.pdf
+
   - title: strava
     icon: fab fa-strava
-    url: https://dev.to/@fridex
     url: https://www.strava.com/athletes/35508472
 
 # - title: another link
@@ -65,7 +68,7 @@ about_content: | # this will include new lines to allow paragraphs
   🌳 Nature lover.<br />
   📚 C. G. Jung admirer.<br />
   🚴 Road cycling.<br />
-  ☯
+  ☯ <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/fridex/fridex.github.io/master/fpokorny_cv.pdf">CV</a>
 
 #
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -78,6 +81,15 @@ content:
   - title: Talks # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      **Red Hat Czech Talks: Thoth: Helping Python developers to create healthy applications**
+
+      * *Date:* Jun 23rd, 2021
+      * *Location:* CZ, virtual event
+        * [slides](https://github.com/thoth-station/talks/blob/master/2021-06-23-rhcz-talks/rh_cz_talks.pdf)
+        * [recording](https://www.youtube.com/watch?v=vfAYMgZV9WQ)
+        * [info](https://www.meetup.com/Red-Hat-Czech-Talks-Tech/events/278896341/)
+
+
       **Online Red Hat Czech Open House: Thoth: Helping Python developers to create healthy applications**
 
       * *Date:* Apr 14th, 2021
