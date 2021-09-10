@@ -81,6 +81,14 @@ content:
   - title: Talks # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      **DevConf.US: Thoth: healing Python applications**
+
+      * *Date:* Sep 3rd, 2021
+      * *Location:* Boston US, virtual event
+        * [slides](https://github.com/thoth-station/talks/blob/master/2021-09-03-devconf-us/thoth_healing_python_applications.pdf)
+        * [recording](https://www.youtube.com/watch?v=SQO2yTQ_OD4)
+        * [info](https://devconfus2021.sched.com/event/lkgb/thoth-healing-python-applications)
+
       **Red Hat Czech Talks: Thoth: Helping Python developers to create healthy applications**
 
       * *Date:* Jun 23rd, 2021
