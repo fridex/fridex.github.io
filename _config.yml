@@ -81,6 +81,14 @@ content:
   - title: Talks # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      **(Late) Hacktoberfest 2021 x Monstarlab Prague: Full-time Open Source**
+
+      * *Date:* November 3rd, 2021
+      * *Location:* Prague, Czech republic
+        * [slides](https://github.com/thoth-station/talks/blob/naster/2021-11-03-hacktoberfest/hacktoberfest_monsterlab.pdf)
+        * [recording](https://www.youtube.com/watch?v=-Kcrx3ASbaw&list=PLokviu1ft5w3HupZRe2hZK9jG37eEo4YG&index=4)
+        * [info](https://www.meetup.com/Monstarlab-Prague/events/281441439)
+
       **DevNation: Resolving problems in Python dependencies**
 
       * *Date:* Sep 22nd, 2021
