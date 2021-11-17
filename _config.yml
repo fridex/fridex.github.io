@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Fridolín Pokorný
-title: Senior Software Engineer
+title: A silicon fingerprint page.
 email: fridex.devel@gmail.com
 # email_title: Email (Email title override)phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -34,20 +34,21 @@ linkedin_username: fridex
 
 # Additional icon links
 additional_links:
-  - title: dev.to
-    icon: fab fa-dev
-    url: https://dev.to/@fridex
-
   # - title: CV
   #   icon: fab fa-info
   #   url: https://raw.githubusercontent.com/fridex/fridex.github.io/master/fpokorny_cv.pdf
 
-  - title: strava
-    icon: fab fa-strava
-    url: https://www.strava.com/athletes/35508472
+  - title: mastodon
+    icon: fab fa-mastodon
+    url: https://fosstodon.org/@fridex
+    # url: https://www.strava.com/athletes/35508472
+
+  - title: dev.to
+    icon: fab fa-dev
+    url: https://dev.to/@fridex
 
 # - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+
 #   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
@@ -58,17 +59,36 @@ additional_links:
 google_analytics: UA-47356209-1
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: https://pbs.twimg.com/profile_images/931834785898684417/tpz_Epng_400x400.jpg
+about_title: 💡 About Me
+about_profile_image: https://fridex.github.io/fridolin.jpg
 about_content: | # this will include new lines to allow paragraphs
-  "*Life is about priorities.*"
-  
-  Passionate Pythonista. Working on scalable platforms and machine learning applications in Red Hat’s office of the CTO.
-  
-  🌳 Nature lover.<br />
-  📚 C. G. Jung admirer.<br />
-  🚴 Road cycling.<br />
-  ☯ <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/fridex/fridex.github.io/master/fpokorny_cv.pdf">CV</a>
+
+  <div style="width: 100%; text-align: right; font-size: initial">
+    <i>Life is about priorities.</i><br />
+    <a rel="me" href="https://fosstodon.org/@fridex"></a>
+  </div>
+
+  <br />
+
+  <div style="width: 45%; float:left; font-size: initial">
+    🌳 Nature lover.<br />
+    📚 Good books lover.<br />
+    🚴 <a href="https://www.strava.com/athletes/35508472">Road cycling.</a><br />
+    🔑 <a href="https://github.com/fridex.gpg">PGP</a><br />
+  </div>
+  <div style="width: 55%; float:right; font-size: initial">
+    <p>
+    📝 Contractor<br />
+    🐾 ex-Datadog<br />
+    🎩 ex-Red Hat<br />
+    🦠 ex-AVG<br />
+    </p>
+
+  <div style="width: 100%; text-align: right; font-size: initial">
+     <a href="https://www.tilt365.com/Portals/0/LiveKnowledgebase/802/Impact-OnePage-update2-26.pdf"><img width="20%" src="https://images.credly.com/size/340x340/images/6ec8fac5-b115-4871-a1ff-f7a015672d7f/Tilt-character-badges-impact.png" alt="impact" /></a>
+  </div>
+  </div>
+
 
 #
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -78,9 +98,144 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Talks # Title for the section
+  - title: 📃 Articles & Publications
+    layout: text
+    content: |
+
+      *Some of the articles are co-authored. Follow the links for more information.*
+
+      * [dev.to (2023): When checking your Python package sources matters](https://dev.to/fridex/when-checking-your-python-package-sources-matters-3p8h)
+      * [dev.to (2023): How to get information about the provenance of Python packages installed](https://dev.to/fridex/how-to-get-information-about-the-provenance-of-python-packages-installed-4f65)
+      * [TheNewStack (2022): Automate Quality, Security Checks for Python Library Dependencies](https://thenewstack.io/automate-quality-security-checks-for-python-library-dependencies/)
+      * [Enable Architect Red Hat (2022): Manage Python application dependencies in the cloud with this open source tool](https://www.redhat.com/architect/manage-python-dependencies-thoth)
+      * [opensource.com (2022): Automate checking for flaws in Python with Thoth](https://opensource.com/article/22/4/automate-security-checks-open-source-libraries-thoth)
+      * [Red Hat Developers (2022): Manage Python security with Thoth's cloud-based dependency resolver](https://developers.redhat.com/articles/2022/03/07/manage-python-security-thoths-cloud-based-dependency-resolver)
+      * [Red Hat Developers (2022): Inspecting containerized Python applications in a cluster](https://developers.redhat.com/articles/2022/02/24/inspecting-containerized-python-applications-cluster)
+      * [dev.to (2022): Why PyPI Doesn't Know Your Projects Dependencies but Thoth Does](https://dev.to/fridex/why-pypi-doesnt-know-your-projects-dependencies-but-thoth-does-4eji)
+      * [Red Hat Developers (2022): How to self-host a Python package index using Pulp](https://developers.redhat.com/articles/2022/01/17/how-self-host-python-package-index-using-pulp)
+      * [Red Hat Developers (2022): Extracting dependencies from Python packages](https://developers.redhat.com/articles/2022/01/14/extracting-dependencies-python-packages)
+      * [Red Hat Developers (2022): Extracting information from Python source code](https://developers.redhat.com/articles/2022/01/05/extracting-information-python-source-code)
+      * [Red Hat Developers (2021): Prevent Python dependency confusion attacks with Thoth](https://developers.redhat.com/articles/2021/12/21/prevent-python-dependency-confusion-attacks-thoth)
+      * [Red Hat Developers (2021): Build and extend containerized applications with Project Thoth](https://developers.redhat.com/articles/2021/11/25/build-and-extend-containerized-applications-project-thoth)
+      * [Red Hat Developers (2021): Customize Python dependency resolution with machine learning](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
+      * [Red Hat Developers (2021): Generating pseudorandom numbers in Python](https://developers.redhat.com/articles/2021/11/04/generating-pseudorandom-numbers-python)
+      * [Red Hat Developers (2021): Find and compare Python libraries with project2vec](https://developers.redhat.com/articles/2021/10/06/find-and-compare-python-libraries-project2vec)
+      * [Red Hat Developers (2021): Secure your Python applications with Thoth recommendations](https://developers.redhat.com/articles/2021/09/29/secure-your-python-applications-thoth-recommendations)
+      * [Red Hat Developers (2021): Thoth prescriptions for resolving Python dependencies](https://developers.redhat.com/articles/2021/09/22/thoth-prescriptions-resolving-python-dependencies)
+      * [Red Hat Developers (2021): Resolve Python dependencies with Thoth Dependency Monkey](https://developers.redhat.com/articles/2021/09/17/resolve-python-dependencies-thoth-dependency-monkey)
+      * [Red Hat Developers (2021): micropipenv: Installing Python dependencies in containerized applications](https://developers.redhat.com/articles/2021/05/19/micropipenv-installing-python-dependencies-containerized-applications)
+      * [dev.to (2020): How to beat Python’s pip: Software stack resolution pipelines](https://dev.to/fridex/how-to-beat-python-s-pip-software-stack-resolution-pipelines-19kg)
+      * [dev.to (2020): How to beat Python’s pip: Reinforcement learning-based dependency resolution](https://dev.to/fridex/how-to-beat-python-s-pip-reinforcement-learning-based-dependency-resolution-2he2)
+      * [dev.to (2020): micropipenv: the one installation tool that covers Pipenv, Poetry and pip-tools](https://dev.to/fridex/micropipenv-the-one-installation-tool-that-covers-pipenv-poetry-and-pip-tools-3ee7)
+      * [dev.to (2020): How to beat Python’s pip: Dependency Monkey inspecting the quality of TensorFlow dependencies](https://dev.to/fridex/how-to-beat-python-s-pip-dependency-monkey-inspecting-the-quality-of-tensorflow-dependencies-6fc)
+      * [dev.to (2020): How to beat Python’s pip: Inspecting the quality of machine learning software](https://dev.to/fridex/how-to-beat-python-s-pip-inspecting-the-quality-of-machine-learning-software-1pkp)
+      * [dev.to (2020): How to beat Python’s pip: Solving Python dependencies](https://dev.to/fridex/how-to-beat-python-s-pip-solving-python-dependencies-2d6e)
+      * [dev.to (2020): How to beat Python’s pip: A brief intro](https://dev.to/fridex/how-to-beat-python-s-pip-a-brief-intro-4bec)
+      * [dev.to (2020): "Termial" random for prioritized picking an item from a list](https://dev.to/fridex/termial-random-for-prioritized-picking-an-item-from-a-list-22jh)
+      * [ComSIS (2014): A New Approach to Instruction-Idioms Detection in a Retargetable Decompiler](https://www.fit.vut.cz/research/publication/10477/.en)
+      * [IEEE (2013): Reconstruction of instruction idioms in a retargetable decompiler](https://ieeexplore.ieee.org/document/6644218)
+      * [LinuxOS.sk (2012): Redmine - tímové projekty efektívne a elegantne](https://linuxos.sk/clanok/redmine-timove-projekty-efektivne-a-elegantne/)
+      * [LinuxOS.sk (2010): Awesome WM V. - widgety a obrazové výstupy](https://linuxos.sk/clanok/awesome-wm-v-widgety-a-obrazove-vystupy/)
+      * [LinuxOS.sk (2010): Awesome WM IV. – konfiguračný súbor II. časť](https://linuxos.sk/clanok/awesome-wm-iv-konfiguracny-subor-ii-cast/)
+      * [LinuxOS.sk (2010): Awesome WM III. – konfiguračný súbor I. časť](https://linuxos.sk/clanok/awesome-wm-iii-konfiguracny-subor-i-cast/)
+      * [LinuxOS.sk (2010): Awesome WM II. – prvé spustenie a klávesové skratky](https://linuxos.sk/clanok/awesome-wm-ii-prve-spustenie-a-klavesove-skra/)
+      * [LinuxOS.sk (2010): Awesome WM I. - zoznámenie](https://linuxos.sk/clanok/awesome-wm-i-zoznamenie/)
+      * [LinuxOS.sk (2008): Slitaz - mini liveUSB distribúcia vo vrecku](https://linuxos.sk/clanok/slitaz-mini-liveusb-distribucia-vo-vrecku/)
+      * [LinuxOS.sk (2007): Prechod z ICQ na Jabber bez straty ICQ kontaktov](https://linuxos.sk/clanok/prechod-z-icq-na-jabber-bez-straty-icq-kontak/)
+
+  - title: 🎓 Academic theses
     layout: text # Type of content section (list/text)
     content: |
+
+      * [Master Thesis (2016): Linux VPN Performance and Optimization](http://hdl.handle.net/11012/61908)
+      * [Bachelor Thesis (2013): Reconstruction of Instruction Idioms in a Retargetable Decompiler](#)
+
+      *Master and bachelor theses I helped with as a technical supervisor:*
+
+      * [Samuel Macko: Risk Assessment Model for Open Source Software Projects in GitHub](https://is.muni.cz/th/sfhss/?lang=en)
+      * [Ananya Chatterjee: Optimization and implementation of AF_KTLS in user-space applications](https://is.muni.cz/th/beg8g/?lang=en)
+      * [Tomáš Janíček: Predicting software stack issues in Tensorflow](https://is.muni.cz/th/cntbb/?lang=en)
+
+      *Bachelor thesis I helped as a friend:*
+
+      * [Anton Giertli: A Tool for Analysis of User's Typing Skills](https://www.vut.cz/en/students/final-thesis/detail/78464)
+
+  - title: ⚖️  Patents & Tech specs
+    layout: text # Type of content section (list/text)
+    content: |
+
+      *US patents I was directly involved in:*
+
+      * [US11288166B2: Determining a recommended software-stack for a target software item](https://patents.google.com/patent/US11288166B2) - patent granted
+      * [US20210397478A1: Resource-usage notification framework in a distributed computing environment](https://patents.google.com/patent/US20210397478A1) - patent granted
+      * [US20210056146A1: Automatically building a searchable database of software features for software projects](https://patents.google.com/patent/US20210056146A1) - patent granted
+      * [US11068243B2: Application stack builder based on node features](https://patents.google.com/patent/US11068243B2) - patent granted
+      * [US10083029B2: Detect application defects by correlating contracts in application dependencies](https://patents.google.com/patent/US10083029B2) - patent granted
+      * [US20230027810A1: Constructing pipelines for implementing a software-stack resolution process](https://patents.google.com/patent/US20230027810A1) - patent granted
+      * [US20220383122A1: Model deployment and optimization based on model similarity measurements](https://patents.google.com/patent/US20220383122A1) - patent pending
+      * [US20230053820A1: Generating a build process for building software in a target environment](https://patents.google.com/patent/US20230053820A1) - patent granted
+
+      *Technical specifications I was involved in:*
+
+      * [PEP-710](https://peps.python.org/pep-0710/)
+
+
+  - title: 💬 Talks # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+
+      **Hacktoberfest 2023 x Monstarlab Prague: Desperate times call for desperate measures: Will open source survive?**
+
+      * *Date:* October 19th, 2023
+      * *Location:* Prague, Czech republic
+        * [slides](#)
+        * [info](https://www.meetup.com/monstarlab-prague/events/296333254/)
+        * recording is not available
+
+      **Hacktoberfest 2022 x Monstarlab Prague: State of open source security**
+
+      * *Date:* October 25th, 2022
+      * *Location:* Prague, Czech republic
+        * [slides](https://github.com/fridex/devnull/blob/master/talks/state_of_open-source_security.pdf)
+        * [info](https://www.meetup.com/monstarlab-prague/events/288748769/)
+        * recording is not available
+
+      **Podcast.__init__: Intelligent Dependency Resolution For Optimal Compatibility And Security With Project Thoth**
+
+      * *Date:* Jun 15th, 2022
+        * [recording](https://www.pythonpodcast.com/thoth-dependency-resolution-episode-367/)
+
+      **DevConf.CZ Mini 2022: Thoth's open database for Python developers**
+
+      * *Date:* Jun 2nd, 2022
+      * *Location:* Brno, Czech republic
+        * [slides](https://github.com/thoth-station/talks/blob/master/2022-06-02-devconf-mini/thoth_open_database_for_python_developers.pdf)
+        * [recording](https://www.youtube.com/watch?v=KstjWfTVxwI)
+        * [info](https://devconfczmini2022.sched.com/event/11l5y/thoths-open-database-for-python-developers)
+
+      **Red Hat Summit 2022: Discover project Thoth**
+
+      * *Date:* May 10th - 11th, 2022; talk with [Maya Costantini](https://mayacostantini.github.io/)
+      * *Location:* Virtual event
+        * [slides](https://github.com/thoth-station/talks/blob/master/2021-06-23-rhcz-talks/rh_cz_talks.pdf)
+        * [recording](https://events.experiences.redhat.com/widget/redhat/sum22/virtualcatalog/exhibitor/1644945403237001xkhV)
+        * [info](https://events.experiences.redhat.com/widget/redhat/sum22/virtualcatalog/exhibitor/1644945403237001xkhV)
+
+      **Red Hat Summit 2022: Securing Python applications with Thoth recommendations**
+
+      * *Date:* May 10th, 2022; talk with [Maya Costantini](https://mayacostantini.github.io/)
+      * *Location:* Virtual event
+        * [slides](https://github.com/thoth-station/talks/blob/master/2022-05-10-rh-summit/Securing%20Python%20Applications%20with%20Thoth%20Recommendations%20-%20Summit%2022.pdf)
+        * [recording](#)
+        * [info](https://events.experiences.redhat.com/widget/redhat/sum22/SessionCatalog22/session/16396653159380015xT4)
+
+      **Red Hat Czech Talks: Discover project Thoth**
+
+      * *Date:* January 14th, 2022
+      * *Location:* Brno, Czech republic
+        * [slides](https://github.com/thoth-station/talks/blob/master/2022-01-14-rh-czech-talk/discover-thoth.pdf)
+        * [recording](https://www.youtube.com/watch?v=2CFkHlSewKY)
+
       **(Late) Hacktoberfest 2021 x Monstarlab Prague: Full-time Open Source**
 
       * *Date:* November 3rd, 2021
@@ -176,11 +331,18 @@ content:
 
       **DevConf.US: Thoth - How to find the best application stack**
 
-      * *Date:* January 25th 2019; talk with Christoph Goern.
+      * *Date:* January 25th 2019; talk with [Christoph Görn](https://github.com/goern)
       * *Location:* Brno, Czech republic
         * [info](https://devconfcz2019.sched.com/event/KIc3/thoth-how-to-recommend-the-best-possible-packages-for-your-application)
         * [slides](https://github.com/thoth-station/talks/blob/master/2019-01-25-devconf-cz/Thoth%20-%20DevConf%20CZ%202019.pdf)
         * recording is not available
+
+      **PyCon.DE 2018: Selinon - Dynamic Distributed Task Flows**
+      * *Date:* Oct 24th 2018
+      * *Location:* Karlsruhe, Germany
+        * [info](https://2018.pycon.de/schedule/talks/selinon-dynamic-distributed-task-flows/)
+        * [recording](https://www.youtube.com/watch?v=UDr9Lp_0rp0)
+        * [slides](https://github.com/selinon/misc/blob/master/presentations/2018-10-24-pyconde-karlsruhe.pdf)
 
       **DAZ & WIKT: Selinon – Dynamic Distributed Task Flows**
 
@@ -253,6 +415,36 @@ content:
         * [slides](https://fosdem.org/2017/schedule/event/af_ktls/attachments/slides/1767/export/events/attachments/af_ktls/slides/1767/slides.)
         * [recording](https://www.youtube.com/watch?v=CtxLPqqbiq0)
 
+  - title: 🪪 Licenses & Certifications
+    layout: text # Type of content section (list/text)
+    content: |
+
+      **Coursera: Neural Networks and Deep Learning (by deeplearning.ai)**
+
+      * October 2017
+      * [Credential ID: 8V9C6BAPXZS6](https://www.coursera.org/account/accomplishments/records/EAMHM326SGY4)
+
+      **Coursera: Machine Learning (by Standford University)**
+
+      * May 2017
+      * [Credential ID: A3AEB2F2SR6T](https://www.coursera.org/account/accomplishments/records/AACT9VGYUYST)
+
+      **Business skills (by [Flotila s.r.o.](https://www.flotila.info/))**
+
+      * January 2016
+
+      **Leadership and People Management (by [Flotila s.r.o.](https://www.flotila.info/))**
+
+      * January 2016
+
+      **Negotiation Strategies (by [Flotila s.r.o.](https://www.flotila.info/))**
+
+      * January 2015
+
+      **Personality psychology (by psycho-servis s.r.o.)**
+
+      * January 2013
+
 # - title: Projects # Title for the section
 #   layout: list # Type of content section (list/text)
 #   content:
@@ -321,7 +513,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Additional references available upon request.
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
